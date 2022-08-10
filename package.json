@@ -1,7 +1,17 @@
 {
   "name": "@iamzzg/tiny",
   "version": "1.0.0",
+  "description": "Reomve all spaces from a string",
   "author": {
     "name": "dragon"
-  }
+  },
+  "license": "MIT",
+  "repository": "@iamzzg/tiny",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "iamzzg"
+  ]
 }
