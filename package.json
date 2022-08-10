@@ -6,7 +6,7 @@
     "name": "dragon"
   },
   "license": "MIT",
-  "repository": "@iamzzg/tiny",
+  "repository": "https://github.com/iamzzg/tiny.git",
   "main": "index.js",
   "keywords": [
     "tiny",
